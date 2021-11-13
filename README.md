@@ -1,3 +1,3 @@
-# Demo of rendering video in favicon
+# rendering video in favicon
 
-[demo]()
+[demo](https://video-in-favicon.netlify.app)
